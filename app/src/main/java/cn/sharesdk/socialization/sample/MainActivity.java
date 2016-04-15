@@ -8,7 +8,6 @@
 
 package cn.sharesdk.socialization.sample;
 
-import static com.mob.tools.utils.R.getStringRes;
 import android.app.Activity;
 import android.content.Context;
 import android.os.Bundle;
@@ -18,6 +17,9 @@ import android.text.TextUtils;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Toast;
+
+import com.mob.tools.utils.UIHandler;
+
 import cn.sharesdk.framework.Platform;
 import cn.sharesdk.framework.Platform.ShareParams;
 import cn.sharesdk.framework.ShareSDK;
@@ -33,7 +35,7 @@ import cn.sharesdk.socialization.Socialization;
 import cn.sharesdk.socialization.component.ReplyTooFrequentlyException;
 import cn.sharesdk.socialization.component.TopicTitle;
 
-import com.mob.tools.utils.UIHandler;
+import static com.mob.tools.utils.R.getStringRes;
 
 /** 评论和赞功能的演示页面 */
 public class MainActivity extends Activity implements Callback, OnClickListener {
@@ -125,6 +127,7 @@ public class MainActivity extends Activity implements Callback, OnClickListener 
 			topicAuthor = getString(R.string.comment_like_author);
 
 			TopicTitle tt = (TopicTitle) findViewById(R.id.llTopicTitle);
+
 			String topicTitle = getString(R.string.comment_like_title);
 			tt.setTitle(topicTitle);
 			tt.setPublishTime(getString(R.string.comment_like_publich_time));
