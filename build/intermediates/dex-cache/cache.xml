@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-QZone-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d62b83a8630b38e7d6eb5681b2a456de319174c5">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QZone-2.7.1_57e83644656459b9b75b747a27f1fdd36cdfb998\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Mingdao-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1d4cd16ab4e04ac432a7692fca13f21735be6a6b">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Mingdao-2.7.1_574598fe53b942f00986a337a194783685adee55\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-FacebookMessenger-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a83ec4ce092d8febd4d93a95558e677eff2eb1a3">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-FacebookMessenger-2.7.1_8934b98c503559333b39695be5bf1b168f677675\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-KakaoStory-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c955fd574849200c0ebd55091e7c7626e81f3a95">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-KakaoStory-2.7.1_a28c0878cde339df9006228f6fbdab3ee3b8f1e8\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Wechat-Core-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7e84965381088ee19bf975e906eb5b60af623dcb">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Core-2.7.1_96cb1b36964802c3663920f17ff4bac42d65fb59\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Facebook-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c8daec50f7419227759738622a6972e565cf0c7e">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Facebook-2.7.1_6d375618acc2336b8ba8b441322c29609967d66f\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Instapaper-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="62fb9f027b2ee2bd7361e2969f5714a3aa1d3e3e">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Instapaper-2.7.1_579a2af60ae4fc0c02c20fd4079ed5a47a41941a\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Tumblr-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="254d1142cbcde2cdea5e548b97daf5e92c2694f6">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Tumblr-2.7.1_bc940fefc2f3c1676ef606d591ee1fb651265bb7\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-WhatsApp-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="32b869f43a20c33a1a2524a9e431d60616516af6">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-WhatsApp-2.7.1_252f35e3dddc53f98884bdf3296423311d8cc14a\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Pocket-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ee1c1f6bcdfedaefb62d2d5517a73243211289e6">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Pocket-2.7.1_2fea78b25af841ec0b58912dda90f4648ea4e6c4\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Yixin-Core-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2a76299771f6d94e8408b37133d9159ab8af40d">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Yixin-Core-2.7.1_439b39393520be27e68fae5aad49b91c0e3d883f\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Dropbox-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b85e95e09474a1236fd7cc694ff1f76d5102678a">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Dropbox-2.7.1_7d91e88467f8021872f0f6147f397ad5bb842394\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Wechat-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="04bbea1c0f4330ec171bea024a7939e91ce410f4">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-2.7.1_1efcf315c6aac1308bb0556909b811536932f8ed\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Yixin-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="be711e958734be41601e0d878c5be99c00000a46">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Yixin-2.7.1_dd14088bab962056f34fda9f931f3328f9377b52\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Instagram-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="71aa37179da1d98a91a1dc7d6ba27761052f023a">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Instagram-2.7.1_a29e52622a82c268850c03fb7ccb37456229d2b5\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-ShortMessage-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1ce4cbfcdd65819736f36e5ba84e8b650ed382fd">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-ShortMessage-2.7.1_be2bc308cb143e4555e364579898c0b8d68da323\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-VKontakte-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0dd6cd701f26c5344177fe65231410366663dd0a">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-VKontakte-2.7.1_93796fd77e0e4e7efa12c2a9028cef186afb5730\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\MobCommons-2016.0406.1915.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9c067e1bbc04c64332957c9f3d901de7d1773c6a">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobCommons-2016.0406.1915_2caa4e79549876012bd7190b75133f8bbd71b121\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Twitter-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8ccd21ab656b162fe5ea9c91d0b5eff7d48023b3">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Twitter-2.7.1_dae7354ba7182aab501fc056a43d04cd6cb6425f\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Foursquare-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="647c4b428215a3c2a2c76cf8566833ae25776f00">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Foursquare-2.7.1_05d01081d3698553f6c2cd31d30bddb39f0ea318\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-TencentWeibo-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d59e4f5360cea9b8e1bb4ee4811d6cbff393f30a">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-TencentWeibo-2.7.1_bc1dbdfbd7b1581631e2e6cb65a201661ee7edbf\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Evernote-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="62235f35bc8c43dd9a22ae6b3c2eebb16d05f5b2">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Evernote-2.7.1_75f48dfb25b20f44ebe340ceb75c264f885d7646\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\MobTools-2016.0406.1915.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="11ec74fc87119785f9815055ec1258045803d8d6">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobTools-2016.0406.1915_3fec418390950828fe63e9a7b327eacd77d2baa2\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Kakao-Core-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a80e030cb166f6952e21d15ffc9d22df8a4d96a8">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Kakao-Core-2.7.1_a85378b9214f9de7d9ce90ad4291b791ac864d18\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Pinterest-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5995ac1c78103a1ba3856b24846f828a1ce274f6">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Pinterest-2.7.1_2a879d6416b25919ca9eb140daf7fe932cf967f2\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-SinaWeibo-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de63bdf57f4d25c390de653ecab4a5a5ec8f3209">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-SinaWeibo-2.7.1_60e6565597cd41bc747d5dc8123bc52064f4f086\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-KaiXin-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ce1780393e9bfaeda93f5a309d92373d485e6aeb">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-KaiXin-2.7.1_8aab1771f30ef4dbbfbe6bdc47748a83f49c9fd8\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Socialization-1.1.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d0c6ddfa6cac457572cfda03d5213dc705107d04">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Socialization-1.1.0_c47ec558ce505076c92e0b720969d8cc7e68e7c2\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-QQ-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7fc4d18bfdfcee533691ec367f476e001075c8a0">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QQ-2.7.1_6a97b67856b44779d5fcdf58fc92bac689419c09\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Wechat-Favorite-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e01404c25658c16f8375b7cc18da694db61e22da">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Favorite-2.7.1_5b760c7832614a75a2212786f8650b0b70052d70\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-YouDao-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="97e355bb533e90ab112220b6031ef85cad8cfd14">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-YouDao-2.7.1_d5ef762a8d23d711f33ba65746d4c5e47bd7adf0\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Flickr-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8e9e5cf6f4f21e8040682e9d13426227d01ece44">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Flickr-2.7.1_9f5c09aaaf3bffdc99d4a53a0d1da6ff22071b6b\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Linkedin-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="850e1f38e0391238786b1ea7412ee4ef0e5131ee">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Linkedin-2.7.1_3d1321378075516d76bc4950c48d7cbe2934ae7c\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Alipay-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fb0a192f06e24407c1d2303e994abea17fab956b">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Alipay-2.7.1_212f762a6bcae7e80333b7b18cac06d255e5465b\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Renren-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2cbb506bdf6c6f383cc2cc6b245df2439ccfaaed">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Renren-2.7.1_2560888d1f256f730d40ff5574c79139c06f9421\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7a992ddd2ffcc2ef202c80de151ae97bd186be50">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_99bc8c60add5511bb4609de5788009dd876f250a\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Yixin-Moments-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="025e9f09f4e5f84de936f883b83b0899b1be7aa2">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Yixin-Moments-2.7.1_b77241d7f800567f93cb691a95dd497df20b10f4\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-GooglePlus-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4ba7d5a7c9a6b41932df1b5f8f589cb5eafc9013">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-GooglePlus-2.7.1_80fff26774855c5d43f3b4869b36acbeb345acd3\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="19cab1e4ad405f16e25b636bdc42c606e74169ba">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_09ca944b65b111020aa3e2930c4137f50afe2d56\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Line-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="97f20a4f5f216e49438a2896c788f325bbe8826d">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Line-2.7.1_e375973e5cc6a4fb254355ff6e71b9b0bfeebeba\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-KakaoTalk-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2841fc2a024fc4bb689ba95b350cccf44c99fd97">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-KakaoTalk-2.7.1_3601ec0e97e2b182e3ca9600e08ab839662b7cee\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Core-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="99b4bf0f2e87da6145faf7726db45186cf29f9a4">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Core-2.7.1_8c7c2d8046dc42fba548a0cdb0e9c27598b16ee7\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Email-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7055f0f38702011c39d54c7ebe6e48287797601a">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Email-2.7.1_41ec217d85ad391e41f06310fa80d5ecde5b4b76\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Douban-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d0b55df3aefee032f328106a417d45057aa88d3c">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Douban-2.7.1_f47236efa88e20312d5d2cb564e098ece66d79aa\classes.dex" />
+    </item>
+    <item
+        jar="E:\Personal\Desktop\Mapdemo\Sample\app\libs\ShareSDK-Wechat-Moments-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="81694c2a408d13da024d36bfcd4f8d9285d8c2dc">
+        <dex dex="E:\Personal\Desktop\Mapdemo\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Moments-2.7.1_5eb2023b4be6a489e37b32d9572eef87d2eafdc9\classes.dex" />
+    </item>
+
+</items>
